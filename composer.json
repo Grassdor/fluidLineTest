@@ -1,0 +1,15 @@
+{
+    "name": "grassdor/fluid-line-test",
+    "autoload": {
+        "psr-4": {
+            "Grassdor\\FluidLineTest\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Grassdor",
+            "email": "rrr345@mail.ru"
+        }
+    ],
+    "require": {}
+}
